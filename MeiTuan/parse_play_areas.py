@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-# __author__ = "zok"  362416272@qq.com
-# Date: 2019-05-05  Python: 3.7
+
 
 import requests
 import json
@@ -26,7 +25,7 @@ class ParseAreas(object):
         data = response.text
         self.parse(data, target_url)
 
-    @ staticmethod
+    @staticmethod
     def parse(data, url):
         """解析数据
         """

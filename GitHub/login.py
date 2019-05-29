@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-# __author__ = "zok"  362416272@qq.com
-# Date: 2019-04-11  Python: 3.7
+
 """
 1. get login html token
 2. login

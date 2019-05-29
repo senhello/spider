@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-# __author__ = "362416272@QQ.COM"
-# Date: 2019/3/25  Python: 3.7.2
+
 
 import re
 from lxml import etree
